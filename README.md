@@ -23,7 +23,7 @@ ______            _               _____          _        _ _
 
 1. **Download the script:**
 ```bash
-wget https://raw.githubusercontent.com/[USER]/[REPO]/main/start.sh
+wget https://raw.githubusercontent.com/BrawlsMons/BartusInstaller/main/start.sh
 ```
 
 2. **Make it executable:**
